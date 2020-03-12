@@ -1,6 +1,6 @@
 # TBT Backend SWE Practical
 
-Thank you for interviewing with us! We'd like to ask you to do a brief, take-home exercise as part of the interview process. Most candidates complete it in about 1.5 - 2 hours; please do not feel the need to spend more time than that. It can be completed in any language.
+Thank you for interviewing with us! We'd like to ask you to do a brief, take-home exercise as part of the interview process. Most candidates complete it within 2 hours; please do not feel the need to spend more time than that. It can be completed in any language.
 
 
 #### Guidelines
