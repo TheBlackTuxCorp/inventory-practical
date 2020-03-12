@@ -2,6 +2,9 @@
 
 Thank you for interviewing with us! We'd like to ask you to do a brief, take-home exercise as part of the interview process. Most candidates complete it in about 1.5 - 2 hours; please do not feel the need to spend more time than that. It can be completed in any language.
 
+
+#### Guidelines
+
 This exercise simulates solving a problem like you would on the job. Since we're replicating actual working conditions:
 
 * The choice of programming language and tools is up to you.
@@ -11,6 +14,8 @@ This exercise simulates solving a problem like you would on the job. Since we're
 * Likewise, getting help actively from a 3rd party is not permitted. This should be your work.
 * We value delivering working software highly. Your first priority should be getting to a working solution.
 
+#### Evaluation
+
 Your solution will be evaluated along these themes:
 
 * **Correctness** - Your code should pass the sample test cases and other test cases you can think of. Handle edge cases sensibly. Don't worry about thread-safety or rogue input that doesn't adhere to the problem as defined below.
@@ -18,7 +23,10 @@ Your solution will be evaluated along these themes:
 * **Performance** - If you can make your solution's complexity better, please do so!
 Remember, if you get really stuck, try and make progress however you can. Focus on simple test cases first, reduce the problem to less complex components, and ask your interviewer for how to prioritize your time.
 
-When you are ready, zip up your code and email it to your recruiter at The Black Tux.
+#### Logistics
+
+* When you are ready, zip up your code and email it to your recruiter at The Black Tux.
+* If you have any questions about the problem, email your recruiter at The Black Tux.
 
 ## Inventory Management Problem
 
