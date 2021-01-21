@@ -2,7 +2,6 @@
 
 Thank you for interviewing with us! We'd like to ask you to do a brief, take-home exercise as part of the interview process. Most candidates complete it within 2 hours; please do not feel the need to spend more time than that. It can be completed in any language.
 
-
 #### Guidelines
 
 This exercise simulates solving a problem like you would on the job. Since we're replicating actual working conditions:
@@ -25,8 +24,8 @@ Remember, if you get really stuck, try and make progress however you can. Focus 
 
 #### Logistics
 
-* When you are ready, zip up your code and email it to your recruiter at The Black Tux.
-* If you have any questions about the problem, email your recruiter at The Black Tux.
+* When you are ready, commit your code.
+* If you have any questions about the problem, feel free to ask your moderator.
 
 ## Inventory Management Problem
 
