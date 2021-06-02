@@ -1,0 +1,15 @@
+{
+  "name": "js-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape __tests__/**.test.js",
+    "solve": "node index.js sample_inputs/test.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
